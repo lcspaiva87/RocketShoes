@@ -26,3 +26,15 @@
 <img src="https://img.shields.io/github/followers/lcspaiva87?style=social">
 </p>
 
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://reactjs.org)
+- [Redux](https://github.com/reduxjs/redux)
+- [Axios](https://github.com/axios/axios)
+- [Reactotron](https://github.com/infinitered/reactotron)
+- [Immer](https://github.com/immerjs/immer)
+- [Styled Components](https://github.com/styled-components/styled-components)
+- [Polished](https://github.com/styled-components/polished)
+- [React Icons](https://github.com/react-icons/react-icons)
