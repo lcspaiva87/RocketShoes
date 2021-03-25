@@ -23,5 +23,6 @@
 <img src="https://img.shields.io/apm/l/github">
 <img src="https://img.shields.io/github/repo-size/lcspaiva87/RocketShoes">
 <img src="https://img.shields.io/github/languages/count/lcspaiva87/RocketShoes">
+<img src="https://img.shields.io/github/followers/lcspaiva87?style=social">
 </p>
 
