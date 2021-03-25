@@ -21,5 +21,6 @@
 <img src="https://wakatime.com/badge/github/lcspaiva87/RocketShoes.svg">
 <img src="https://img.shields.io/david/dev/lcspaiva87/RocketShoes?style=flat-square">  
 <img src="https://img.shields.io/apm/l/github">
+ <img src="https://img.shields.io/github/repo-size/lcspaiva87/RocketShoes">
 </p>
 
