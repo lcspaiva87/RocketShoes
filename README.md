@@ -38,3 +38,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Styled Components](https://github.com/styled-components/styled-components)
 - [Polished](https://github.com/styled-components/polished)
 - [React Icons](https://github.com/react-icons/react-icons)
+- [TypeScript](https://www.typescriptlang.org/)
