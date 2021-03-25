@@ -19,6 +19,4 @@
 
 <p align="center">
 <img src="https://wakatime.com/badge/github/lcspaiva87/RocketShoes.svg">
-
-[![time tracker](https://wakatime.com/badge/github/lcspaiva87/RocketShoes.svg)](https://wakatime.com/badge/github/lcspaiva87/RocketShoes)
 </p>
