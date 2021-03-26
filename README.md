@@ -46,3 +46,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Polished](https://github.com/styled-components/polished)
 - [React Icons](https://github.com/react-icons/react-icons)
 - [TypeScript](https://www.typescriptlang.org/)
+
+## Como fazer funcionar em sua máquina
+
+```sh
+yarn 
+
+# start the json-server api
+yarn api:server
+# start projecto
+yarn start
+
+
