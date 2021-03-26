@@ -50,11 +50,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Como fazer funcionar em sua máquina
 
 ```sh
+Execute esse comando para instalatar todas as dependências
 yarn 
 
 # start the json-server api
 yarn api:server
-# start projecto
+# start project
 yarn start
 
 
