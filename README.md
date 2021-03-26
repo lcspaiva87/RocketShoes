@@ -27,9 +27,9 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/lcspaiva87/RocketShoes/blob/main/src/assets/images/home.png">
-<img src="https://github.com/lcspaiva87/RocketShoes/blob/main/src/assets/images/error.png">  
-<img src="https://github.com/lcspaiva87/RocketShoes/blob/main/src/assets/images/card.png">
+<img src="https://github.com/lcspaiva87/RocketShoes/blob/main/src/assets/images/home.png"  width="70%" height="70%">
+<img src="https://github.com/lcspaiva87/RocketShoes/blob/main/src/assets/images/error.png" width="70%" height="70%">  
+<img src="https://github.com/lcspaiva87/RocketShoes/blob/main/src/assets/images/card.png"  width="70%" height="70%">
 </p>
 
 
