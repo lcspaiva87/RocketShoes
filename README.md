@@ -26,6 +26,13 @@
 <img src="https://img.shields.io/github/followers/lcspaiva87?style=social">
 </p>
 
+<p align="center">
+<img src="https://github.com/lcspaiva87/RocketShoes/blob/main/src/assets/images/home.png">
+<img src="https://github.com/lcspaiva87/RocketShoes/blob/main/src/assets/images/error.png">  
+<img src="https://github.com/lcspaiva87/RocketShoes/blob/main/src/assets/images/card.png">
+</p>
+
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
