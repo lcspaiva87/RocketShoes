@@ -37,7 +37,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
+
 - [Redux](https://github.com/reduxjs/redux)
 - [Axios](https://github.com/axios/axios)
 - [Reactotron](https://github.com/infinitered/reactotron)
